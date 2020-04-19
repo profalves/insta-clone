@@ -4,7 +4,7 @@
 Desenvolver uma versão **mobile first** do Instagram utilizando apenas **HTML5** e **CSS3**.
 
 > **Preview:**
-> [Instagram Codenation](https://aceleradev-react.netlify.com/aula-02/public)
+> [Instagram Clone](http://insta-clone.surge.sh/)
 
 ## Tópicos:
 Neste desafio, você vai praticar os seus conhecimentos em: 
@@ -31,6 +31,13 @@ Neste desafio, você vai praticar os seus conhecimentos em:
 > Após a instalação, você deverá navegar até o diretório contendo seus arquivos HTML e executar o comando:
 > **`live-server ./[nome-da-pasta ou arquivo html]`**
 
+ou simplesmente usar sem instalar:
+
+```bash
+npx live-server public/
+# or yarn start
+# or npm start
+```
 
 ## Dicas:
 * Utilize as tags semânticas do HTML5 onde julgar necessário;
