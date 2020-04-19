@@ -1,0 +1,10 @@
+{
+  "name": "react-12",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rodrigo Alves <igo.sud@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
